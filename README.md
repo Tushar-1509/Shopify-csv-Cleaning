@@ -1,23 +1,53 @@
 # Shopify CSV Cleaning
 
-## Objective
+## Project Overview
 
-Clean Shopify product CSV files before import.
+This project focuses on cleaning and preparing Shopify product CSV files before they are imported into an online store. Poor-quality product data often causes upload failures and catalog management issues. The objective was to identify data quality problems and produce a clean, import-ready dataset.
 
-## Tools
+---
 
-- Excel
-- Data Cleaning
+## Objectives
 
-## Tasks
-
-- Remove duplicates
-- Handle NULL values
+- Remove duplicate records
+- Handle missing values
 - Standardize formatting
-- Validate product information
+- Correct product information
+- Validate product data
+- Prepare import-ready CSV files
 
-## Skills
+---
 
-Data Cleaning
-Excel
-Business Data
+## Tools Used
+
+- Microsoft Excel
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Validation
+- Duplicate Removal
+- Missing Value Handling
+- Data Standardization
+- Spreadsheet Management
+
+---
+
+## Business Value
+
+Clean product data improves import success, reduces catalog errors, and ensures consistent product information for Shopify stores.
+
+---
+
+## Files Included
+
+- Original Dataset
+- Cleaned Dataset
+- Screenshots
+
+---
+
+## Project Status
+
+Completed
